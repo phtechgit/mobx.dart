@@ -1,7 +1,7 @@
 library flutter_mobx;
 
 // ignore_for_file:implementation_imports
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/widgets.dart';
 import 'package:mobx/mobx.dart';
 import 'package:mobx/src/core.dart' show ReactionImpl;
 
